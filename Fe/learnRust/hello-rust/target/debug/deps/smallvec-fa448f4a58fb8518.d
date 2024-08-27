@@ -1,0 +1,5 @@
+/home/sam/personal/Fe/hello-rust/target/debug/deps/libsmallvec-fa448f4a58fb8518.rmeta: /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/smallvec-1.13.1/src/lib.rs
+
+/home/sam/personal/Fe/hello-rust/target/debug/deps/smallvec-fa448f4a58fb8518.d: /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/smallvec-1.13.1/src/lib.rs
+
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/smallvec-1.13.1/src/lib.rs:
